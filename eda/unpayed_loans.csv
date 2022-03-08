@@ -1,0 +1,16 @@
+,loan_id,account_id,date_of_loan,amount,duration,monthly_payment,status_code,status
+0,5314,1787,1993-07-05,96396,12,8033.0,B,Contract Finished/Not Payed
+28,6650,8073,1994-02-17,49320,12,4110.0,B,Contract Finished/Not Payed
+41,7066,10131,1994-05-02,215388,36,5983.0,B,Contract Finished/Not Payed
+49,6316,6473,1994-05-26,76908,12,6409.0,B,Contract Finished/Not Payed
+58,6210,5927,1994-06-06,87216,48,1817.0,B,Contract Finished/Not Payed
+68,6232,6051,1994-07-08,276660,36,7685.0,B,Contract Finished/Not Payed
+111,5269,1527,1994-11-19,164052,36,4557.0,B,Contract Finished/Not Payed
+140,7241,11021,1995-03-04,168984,24,7041.0,B,Contract Finished/Not Payed
+155,5352,1993,1995-04-15,68400,12,5700.0,B,Contract Finished/Not Payed
+158,5045,347,1995-05-01,187224,24,7801.0,B,Contract Finished/Not Payed
+194,6342,6609,1995-11-12,60156,36,1671.0,B,Contract Finished/Not Payed
+199,5805,4081,1995-11-28,137904,24,5746.0,B,Contract Finished/Not Payed
+239,4961,19,1996-04-29,30276,12,2523.0,B,Contract Finished/Not Payed
+281,6865,9199,1996-09-11,29448,12,2454.0,B,Contract Finished/Not Payed
+467,5643,3273,1997-09-21,94512,12,7876.0,B,Contract Finished/Not Payed
